@@ -5,3 +5,4 @@
 ***
 > mainとmasterに注意
 > 新しいverではmain
+> 古いverではmaster
