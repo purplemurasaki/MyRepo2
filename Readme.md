@@ -6,3 +6,7 @@
 > ## mainとmasterに注意
 > ## 新しいverではmain
 > ## 古いverではmaster
+
+***
+## 感想
+- よーできとるわ
