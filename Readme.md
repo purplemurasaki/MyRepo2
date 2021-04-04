@@ -3,6 +3,6 @@
 2. github
 3. gitlab
 ***
-> mainとmasterに注意
-> 新しいverではmain
-> 古いverではmaster
+> ## mainとmasterに注意
+> ## 新しいverではmain
+> ## 古いverではmaster
