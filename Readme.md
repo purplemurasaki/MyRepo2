@@ -4,3 +4,4 @@
 3. gitlab
 ***
 > mainとmasterに注意
+> 新しいverではmain
